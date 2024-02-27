@@ -17,7 +17,7 @@
     width: 360px;
     background-color: #343434;
     margin: 0 auto;
-    font-family: "Inter", Arial, sans-serif, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 400;
   }
 
@@ -164,7 +164,7 @@
   }
 
   .cover__title {
-    font-family: "EB Garamond", Arial, sans-serif, serif;
+    font-family: "EB Garamond", Arial, serif;
     font-weight: 400;
     font-size: 72px;
     margin-right: 24px;
@@ -218,7 +218,7 @@
   }
 
   .content-section__subtitle {
-    font-family: "EB Garamond", Arial, sans-serif, serif;
+    font-family: "EB Garamond", Arial, serif;
     font-weight: 500;
     font-size: 28px;
     color: #131313;
@@ -240,7 +240,7 @@
   }
 
   .content-section__list-item {
-    font-family: "Inter", Arial, sans-serif, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 21.6px;
@@ -256,7 +256,7 @@
   }
 
   .content-section__subtitle_how-to {
-    font-family: "EB Garamond", Arial, sans-serif, serif;
+    font-family: "EB Garamond", Arial, serif;
     font-weight: 500;
     font-size: 28px;
     color: #F5F5F5;
@@ -323,7 +323,7 @@
 
 
   .card__author-name {
-    font-family: "Inter", Arial, sans-serif, serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 700;
     font-size: 16px;
     color: #F5F5F5;
@@ -340,7 +340,7 @@
   }
 
   .card__title_bright {
-    font-family: "EB Garamond", Arial, sans-serif, serif;
+    font-family: "EB Garamond", Arial, serif;
     font-weight: 500;
     font-size: 22px;
     color: #131313;
